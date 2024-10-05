@@ -2,7 +2,7 @@
 Matt and Luci Practicing
 <img src="./images/liverpool.png"/>
 
-European football, the superior sport.
+<h2>European football, the superior sport.<h2>
 
 European football is one of the oldest sports in the world dating back to the 15th century, a good 300 years before American football. European football has the biggest fan base of any other sport, let alone American football. Many people argue over which sport should get the title of "football". Is can be a heated debate especially since Europeans have had to hear their beloved game being referred to as "soccer." However, European football deserves it's well earned nickname, "the beautiful game" 
 
